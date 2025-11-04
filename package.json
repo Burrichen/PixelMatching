@@ -1,0 +1,16 @@
+{
+  "name": "pixelmatch",
+  "version": "1.0.0",
+  "description": "PixelMatch training",
+  "license": "ISC",
+  "author": "Isaac",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pixelmatch": "^7.1.0"
+  },
+  "type": "module"
+}
